@@ -1,0 +1,11 @@
+問題１
+1,PHP
+2,model
+3,view
+4,controller
+5,HTTP
+6,post
+7,get
+8,put
+9,
+10,
